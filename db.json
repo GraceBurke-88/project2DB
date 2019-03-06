@@ -9,7 +9,7 @@
     { "id": 7, "title": "Create Grid View",  "type": "feature", "column": "in-progress" },
     { "id": 8, "title": "Create List View",  "type": "feature", "column": "todo" },
     { "id": 9, "title": "Create Add Form",  "type": "feature", "column": "todo" },
-    { "id": 10, "title": "App Crashs! :(",  "type": "bug", "column": "done" },
+    { "id": 10, "title": "App Crashs! :(",  "type": "bug", "column": "done" }
   ],
   "profile": {
     "name": "Project 2 Database"
