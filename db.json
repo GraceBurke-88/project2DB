@@ -1,15 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "tasks": [
-    { "id": 1, "title": "Install React", "type": "task", "column": "done" },
+     { "id": 1, "title": "Install React", "type": "task", "column": "done" },
     { "id": 2, "title": "Setup GitHub",  "type": "task", "column": "review" },
     { "id": 3, "title": "Invite Collaborators",  "type": "task", "column": "done" },
     { "id": 4, "title": "Install Dependencies",  "type": "task", "column": "in-progress" },
@@ -19,6 +10,10 @@
     { "id": 8, "title": "Create List View",  "type": "feature", "column": "todo" },
     { "id": 9, "title": "Create Add Form",  "type": "feature", "column": "todo" },
     { "id": 10, "title": "App Crashs! :(",  "type": "bug", "column": "done" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
